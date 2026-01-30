@@ -46,5 +46,3 @@ This project explores the environmental preferences of *Tragelaphus scriptus* (b
 
 🛠 **Tools**
 R (`FactoMineR`, `factoextra`, `dplyr`)
-
-Veux‑tu que je fasse ça ?
