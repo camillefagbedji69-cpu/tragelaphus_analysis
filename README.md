@@ -1,4 +1,4 @@
-**Tragelaphus scriptus Habitat Analysis: South Benin**
+**Tragelaphus scriptus Habitat Analysis: Benin**
 
 📌 **Context**
 This project explores the environmental preferences of *Tragelaphus scriptus* (bubale à bandes) in Benin using occurrences from GBIF and environmental variables derived from Google Earth Engine at 1 km resolution. The aim is to identify environmental gradients and habitat clusters relevant to species distribution.
